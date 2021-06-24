@@ -1,5 +1,7 @@
 # React Fish
-    This is a web application that has a list of fish cards and you can search fish in this list or read more about each species in Wikipedia.
+
+This is a web application that has a list of fish cards and you can search fish in this list or read more about each species in Wikipedia.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
